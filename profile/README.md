@@ -1,4 +1,4 @@
-## GabutNetwork Minecraft Server 👋
+## GabutNetwork - AI Research Community 👋
 
 <!--
 
